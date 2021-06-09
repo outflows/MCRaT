@@ -13,7 +13,7 @@
 #define MC_PATH "SKN_16OI_SPHERICAL/"
 
 
-#define     SIM_SWITCH              FLASH
+#define     SIM_SWITCH              PLUTO
 #define     STOKES_SWITCH           ON
 #define     COMV_SWITCH             ON
 #define     DIMENSIONS              2
